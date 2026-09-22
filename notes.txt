@@ -1,0 +1,9 @@
+Body{
+    background-color: #e4f8f6;
+}
+#name{
+    color: #6b4423;
+}
+#title{
+    color: #4f5150;
+}
